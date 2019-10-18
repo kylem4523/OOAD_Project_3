@@ -62,7 +62,6 @@ public class Main {
             ArrayList<Customer> todaysCustomers = hs.todaysCustomers(valids);
             // Loops through the stores customers for the day.
             for (int i = 0; i < todaysCustomers.size(); i++) {
-                // TODO Possible bug with available tools
                 Customer currentCust = todaysCustomers.get(i);
                 todaysCustomers.remove(currentCust);
                 ArrayList<Tools> availableTools = hs.getAvailableTools();
@@ -95,6 +94,7 @@ public class Main {
                 }
             }
 
+            System.out.println("Total made for day " + hs.getCurrentDay() + " : " + hs.getDailyTotal());
             hs.incrementTotalMoney(hs.getDailyTotal());
             hs.resetDailyTotal();
             hs.newDay();
