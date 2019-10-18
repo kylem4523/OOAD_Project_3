@@ -1,4 +1,3 @@
-"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.1.4\lib\idea_rt.jar=64415:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.1.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\kylem\OOAD_Project_3\out\production\OOAD_Project_3;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.1.4\lib\groovy-all-2.4.12.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.1.4\lib\junit-4.12.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.1.4\lib\hamcrest-core-1.3.jar" Main
 Day Number1
 Completed Rentals: Active Rentals: 
 Number of available tools: 24
@@ -27,11 +26,12 @@ yardwork2
 yardwork3
 yardwork4
 yardwork5
+Total made for day 1 : 284
 Day Number2
 Completed Rentals: Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
 Number of available tools: 21
 Available Tools
 paint4
@@ -55,42 +55,15 @@ yardwork2
 yardwork3
 yardwork4
 yardwork5
+Total made for day 2 : 208
 Day Number3
 Completed Rentals: Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Number of available tools: 20
-Available Tools
-concrete1
-concrete2
-concrete3
-concrete4
-concrete5
-plumbing1
-plumbing2
-plumbing3
-plumbing4
-plumbing5
-woodwork1
-woodwork2
-woodwork3
-woodwork4
-woodwork5
-yardwork1
-yardwork2
-yardwork3
-yardwork4
-yardwork5
-Day Number4
-Completed Rentals: Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: e Rented: concrete2
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
 Number of available tools: 18
 Available Tools
 concrete3
@@ -111,17 +84,18 @@ yardwork2
 yardwork3
 yardwork4
 yardwork5
-Day Number5
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete3
-Customer Name: l Rented: concrete4
-Number of available tools: 17
+Total made for day 3 : 101
+Day Number4
+Completed Rentals: Active Rentals: 
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: j Rented: concrete4
+Number of available tools: 16
 Available Tools
 concrete5
 plumbing1
@@ -139,22 +113,22 @@ yardwork2
 yardwork3
 yardwork4
 yardwork5
-concrete2
-Day Number6
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete3
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing1
-Customer Name: a Rented: plumbing2
+Total made for day 4 : 130
+Day Number5
+Completed Rentals: Active Rentals: 
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: j Rented: concrete4
+Customer Name: k Rented: concrete5
+Customer Name: k Rented: plumbing1
 Number of available tools: 14
 Available Tools
+plumbing2
 plumbing3
 plumbing4
 plumbing5
@@ -168,25 +142,25 @@ yardwork2
 yardwork3
 yardwork4
 yardwork5
-concrete2
-Day Number7
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
+Total made for day 5 : 57
+Day Number6
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete3
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing1
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
-Number of available tools: 11
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: k Rented: plumbing1
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Number of available tools: 13
 Available Tools
+plumbing4
+plumbing5
 woodwork1
 woodwork2
 woodwork3
@@ -197,26 +171,57 @@ yardwork2
 yardwork3
 yardwork4
 yardwork5
-concrete2
-Day Number8
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
+concrete4
+Total made for day 6 : 232
+Day Number7
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing1
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: k Rented: plumbing1
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork2
-Customer Name: c Rented: woodwork3
+Number of available tools: 10
+Available Tools
+woodwork2
+woodwork3
+woodwork4
+woodwork5
+yardwork1
+yardwork2
+yardwork3
+yardwork4
+yardwork5
+concrete4
+Total made for day 7 : 23
+Day Number8
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Active Rentals: 
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
+Customer Name: c Rented: woodwork1
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
 Number of available tools: 9
 Available Tools
 woodwork4
@@ -226,28 +231,29 @@ yardwork2
 yardwork3
 yardwork4
 yardwork5
-concrete2
-concrete3
+concrete4
+plumbing1
+Total made for day 8 : 50
 Day Number9
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing1
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork2
-Customer Name: c Rented: woodwork3
-Customer Name: e Rented: woodwork4
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
 Number of available tools: 8
 Available Tools
 woodwork5
@@ -256,906 +262,866 @@ yardwork2
 yardwork3
 yardwork4
 yardwork5
-concrete2
-concrete3
+concrete4
+plumbing1
+Total made for day 9 : 5
 Day Number10
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing1
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork2
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
-Customer Name: iCust Rented: yardwork1
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Number of available tools: 8
+Available Tools
+yardwork1
+yardwork2
+yardwork3
+yardwork4
+yardwork5
+concrete4
+plumbing1
+woodwork5
+Total made for day 10 : 11
+Day Number11
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Active Rentals: 
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
+Customer Name: c Rented: woodwork1
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Number of available tools: 7
 Available Tools
 yardwork2
 yardwork3
 yardwork4
 yardwork5
-concrete2
-concrete3
-woodwork4
-Day Number11
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
+concrete4
+plumbing1
+woodwork5
+Total made for day 11 : 175
+Day Number12
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing1
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork2
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
-Customer Name: iCust Rented: yardwork1
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
 Customer Name: b Rented: yardwork4
 Number of available tools: 4
 Available Tools
 yardwork5
-concrete2
-concrete3
-woodwork4
-Day Number12
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
-Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork2
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
-Customer Name: iCust Rented: yardwork1
-Customer Name: b Rented: yardwork2
-Customer Name: b Rented: yardwork3
-Customer Name: b Rented: yardwork4
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Number of available tools: 3
-Available Tools
-concrete3
-woodwork4
+concrete4
 plumbing1
+woodwork5
+Total made for day 12 : 127
 Day Number13
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork2
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
 Customer Name: b Rented: yardwork4
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Number of available tools: 3
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: iCust Rented: plumbing1
+Number of available tools: 1
 Available Tools
-woodwork4
-plumbing1
-yardwork1
+woodwork5
+Total made for day 13 : 0
 Day Number14
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
 Customer Name: b Rented: yardwork4
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Number of available tools: 2
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: iCust Rented: plumbing1
+Number of available tools: 1
 Available Tools
-yardwork1
-woodwork2
+woodwork5
+Total made for day 14 : 0
 Day Number15
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
 Customer Name: b Rented: yardwork4
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Number of available tools: 1
-Available Tools
-woodwork2
-Day Number16
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
-Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
-Customer Name: b Rented: yardwork2
-Customer Name: b Rented: yardwork3
-Customer Name: b Rented: yardwork4
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Number of available tools: 1
-Available Tools
-woodwork2
-Day Number17
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
-Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
-Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
-Customer Name: b Rented: yardwork2
-Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
 Number of available tools: 2
 Available Tools
-woodwork2
-yardwork4
+woodwork5
+plumbing1
+Total made for day 15 : 74
+Day Number16
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
+Active Rentals: 
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
+Customer Name: c Rented: woodwork1
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
+Customer Name: b Rented: yardwork2
+Customer Name: b Rented: yardwork3
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
+Number of available tools: 0
+Available Tools
+Total made for day 16 : 0
+Day Number17
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
+Active Rentals: 
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
+Customer Name: c Rented: woodwork1
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
+Customer Name: b Rented: yardwork2
+Customer Name: b Rented: yardwork3
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
+Number of available tools: 0
+Available Tools
+Total made for day 17 : 0
 Day Number18
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 18 : 0
 Day Number19
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 19 : 0
 Day Number20
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 20 : 0
 Day Number21
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 21 : 0
 Day Number22
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 22 : 0
 Day Number23
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 23 : 0
 Day Number24
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 24 : 0
 Day Number25
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 25 : 0
 Day Number26
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 26 : 0
 Day Number27
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 27 : 0
 Day Number28
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 28 : 0
 Day Number29
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 29 : 0
 Day Number30
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 30 : 0
 Day Number31
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 31 : 0
 Day Number32
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 32 : 0
 Day Number33
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 33 : 0
 Day Number34
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
+Total made for day 34 : 0
 Day Number35
-Completed Rentals: Tool: concrete2, Rented By: e, for 2 days at a total price of: 30
-Tool: concrete3, Rented By: l, for 4 days at a total price of: 60
-Tool: woodwork4, Rented By: e, for 2 days at a total price of: 10
-Tool: plumbing1, Rented By: a, for 7 days at a total price of: 70
-Tool: yardwork1, Rented By: iCust, for 4 days at a total price of: 20
-Tool: woodwork2, Rented By: c, for 7 days at a total price of: 35
-Tool: yardwork4, Rented By: b, for 7 days at a total price of: 35
+Completed Rentals: Tool: concrete4, Rented By: j, for 3 days at a total price of: 45
+Tool: plumbing1, Rented By: k, for 4 days at a total price of: 40
+Tool: woodwork5, Rented By: g, for 1 days at a total price of: 5
+Tool: plumbing1, Rented By: iCust, for 3 days at a total price of: 30
 Active Rentals: 
-Customer Name: d Rented: paint1
-Customer Name: d Rented: paint2
-Customer Name: d Rented: paint4
-Customer Name: k Rented: paint4
-Customer Name: e Rented: concrete1
-Customer Name: l Rented: concrete4
-Customer Name: a Rented: concrete5
-Customer Name: a Rented: plumbing2
-Customer Name: k Rented: plumbing3
-Customer Name: k Rented: plumbing4
-Customer Name: k Rented: plumbing5
+Customer Name: a Rented: paint1
+Customer Name: a Rented: paint2
+Customer Name: a Rented: paint4
+Customer Name: l Rented: paint4
+Customer Name: l Rented: concrete1
+Customer Name: l Rented: concrete2
+Customer Name: j Rented: concrete3
+Customer Name: k Rented: concrete5
+Customer Name: f Rented: plumbing2
+Customer Name: f Rented: plumbing3
+Customer Name: c Rented: plumbing4
+Customer Name: c Rented: plumbing5
 Customer Name: c Rented: woodwork1
-Customer Name: c Rented: woodwork3
-Customer Name: iCust Rented: woodwork5
+Customer Name: h Rented: woodwork2
+Customer Name: h Rented: woodwork3
+Customer Name: k Rented: woodwork4
+Customer Name: h Rented: yardwork1
 Customer Name: b Rented: yardwork2
 Customer Name: b Rented: yardwork3
-Customer Name: h Rented: yardwork5
-Customer Name: h Rented: concrete2
-Customer Name: h Rented: concrete3
-Customer Name: j Rented: woodwork4
-Customer Name: j Rented: plumbing1
-Customer Name: k Rented: yardwork1
-Customer Name: iCust Rented: woodwork2
-Customer Name: iCust Rented: yardwork4
+Customer Name: b Rented: yardwork4
+Customer Name: iCust Rented: yardwork5
+Customer Name: iCust Rented: concrete4
+Customer Name: g Rented: woodwork5
+Customer Name: g Rented: plumbing1
 Number of available tools: 0
 Available Tools
-Number of Total Rentals: 31
-Number of Total Rentals by Casual Customers: 13
-Number of Total Rentals Business Customers: 12
-Number of Total Rentals By Regular Customers: 6
-Total Money Made: 1656
+Total made for day 35 : 0
+Number of Total Rentals: 28
+Number of Total Rentals by Casual Customers: 11
+Number of Total Rentals Business Customers: 9
+Number of Total Rentals By Regular Customers: 8
+Total Money Made: 1477
 
 Process finished with exit code 0
