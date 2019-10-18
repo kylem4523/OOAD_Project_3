@@ -1,7 +1,7 @@
 # OOAD_Project_3
 
 Team Members: 
-Kyle McDevitt
+Kyle McDevitt and Yun-Ting Chen
 
 Devoloped in Java 10 on IntelliJ
 
